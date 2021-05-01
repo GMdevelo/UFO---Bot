@@ -1,4 +1,4 @@
-# UFO---Bot
+# UFO-Bot
 This is my Discord Bot. Take a look at it. It's SPECIAL.
 
 This is my first serious Discord Bot. 
